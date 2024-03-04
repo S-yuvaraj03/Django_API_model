@@ -1,6 +1,6 @@
 # DjangoAPi
-Django API for collecting shop information along with product details, you can follow these steps:
-Installation & Creation Process:
+Django API for collecting shop information along with product details, you can follow these steps for Installation & Creation Process:
+
 1.	PS C:\Users\yuvaraj\djangopy> pip install django
 2.	PS C:\Users\yuvaraj\djangopy> pip install djangorestframework
 3.	PS C:\Users\yuvaraj\djangopy> python -m django startproject demo
